@@ -1,0 +1,8 @@
+export const URL_API = 'https://api2.shahid.net/proxy/v2.1/product/top-ranking?request=%7B%22pageNumber%22%3A0%2C%22pageSize%22%3A10%2C%22profileType%22%3A%22ADULT%22%7D&country='
+export const CLIENT_ID='1030507778248-4ah3qj3iqkh3lre96s094bc7vb33vr11.apps.googleusercontent.com'
+export const CLIENT_SECRET='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'
+export const REDIRECT_URI='https://developers.google.com/oauthplayground'
+export const ACCESS_TOKEN='ya29.a0AVvZVsrhkLbweNUggMREWb7_vOQZlqSbtp8Y-XjgCgL3gbwNnXFOZzcmeZwINpmwHz1kHVSInYqDH3Og2gbF4P6OrH0OgWD5kpajmEhjy5EUgpWS53Mdo0CPSI15sfnkIWRMGG9PjBXmuFyRcbqahLtUt5bpaCgYKAQkSARISFQGbdwaIgaQQZKVgAFGM72cdfZ28mA0163'
+export const REFREASH_TOKEN='1//04nTiTVgqbs3BCgYIARAAGAQSNwF-L9Ir4MHwi4KC5PthIzPhB8rfo4cS7QUIVxjXPyqzGgsyKgI56PLM-zHQSpVkfBMbJmgBJCY'
+export const BOT_TOKEN='6067284182:AAFMzMh3HguLUGtFOTMS92eBrKYm22VS2l8'
+export const FOLDER_ID='1niwo6AQT04IEFd20t6-Z6jglX4xgjxXZ'
